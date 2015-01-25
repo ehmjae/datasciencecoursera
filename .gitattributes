@@ -17,3 +17,5 @@
 *.RTF	 diff=astextplain
 git add.HelloWorld.md
 ## This is a markdown file
+git push
+
